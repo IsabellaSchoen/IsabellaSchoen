@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Isabella Schoen
-- 👀 I’m interested in Neuroscience, artificial intelligence and programming.
+- 👀 I’m interested in neuroscience, artificial intelligence and programming.
 - 🌱 I’m currently learning JavaScript, CSS and HTML.
 <!---
 - 💞️ I’m looking to collaborate on 
